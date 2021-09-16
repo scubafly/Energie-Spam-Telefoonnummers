@@ -3,8 +3,8 @@ Lijst met Telefoonnummers die gebruikt worden voor ongewenste telefoontjes over 
 
 Iedereen kent het wel, die irritante bellers die je proberen een goedkoper energiecontract willen aansmeren!
 
-TEL:+31103180130
-TEL:+31202111027
+- TEL:+31103180130
+- TEL:+31202111027
 TEL:+31850511699
 TEL:+31434593449
 TEL:+31302008999

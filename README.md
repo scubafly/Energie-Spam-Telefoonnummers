@@ -1,10 +1,9 @@
 # Stop Energie Spam
-Lijst met Telefoonnummers die gebruikt worden voor ongewenste telefoontjes over jouw energiecontract? 
-
 Iedereen kent het wel, die irritante bellers die je proberen een goedkoper energiecontract willen aansmeren!
+Dit is een lijst met bekende telefoonnummers die ongewenst bellen mbt je energiecontract? 
 
 ## Telefoonnummers
-Download de vcard en importeer deze in je telefoon, of open deze met een teksteditor voor de nummers.
+Download de .vcard en importeer deze in je telefoon, of open deze met een teksteditor voor de nummers.
 
 ## Nieuwe Telecomwet
 Op 1 juli 2021 is de nieuwe telecomwet ingegaan. Een bedrijf mag alleen bellen als je daadwerkelijk klant van ze bent. Ben je geen klant van ze, dan mogen ze jou niet bellen. 

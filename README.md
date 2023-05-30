@@ -13,16 +13,27 @@ Ook 1 juli 2021 gaan de telefoontje helaas gewoon door, vandaar dat ik Energie S
 
 ## Hoe werkt het installeren op een iPhone
 Ga met je telefoon naar deze repo.
-Klik op Energie Spammer.vcf
-Klik op de ... drie puntjes en op "View raw"
-Je krijgt nu een dialoog waarmee je deze evil contactpersoon kan toevoegen.
-Scroll helemaal naar beneden, klik op als contactpersoon toevoegen.
-Als je nu gebeld wordt zie je meteen dat het een spammer is :)
-Nu je de lijst met telefoonnummers hebt opgeslagen bij de contactpersoon, kun je specifieke telefoonnummers blokkeren. Volg hiervoor deze stappen:
 
-Ga naar de "Instellingen" app op je iPhone.
-Scroll naar beneden en tik op "Telefoon".
-Tik op "Geblokkeerd" onder het gedeelte "Geblokkeerd en identificatie".
-Tik op "Voeg toe" om een nieuwe geblokkeerde contactpersoon toe te voegen.
-Zoek en selecteer de contactpersoon waaraan je de geblokkeerde telefoonnummers wilt toevoegen.
+* Klik op Energie Spammer.vcf
+
+* Klik op de ... drie puntjes en op "View raw"
+
+* Je krijgt nu een dialoog waarmee je deze evil contactpersoon kan toevoegen.
+
+* Scroll helemaal naar beneden, klik op als contactpersoon toevoegen.
+
+* Als je nu gebeld wordt zie je meteen dat het een spammer is :)
+
+### Blokkeren van deze lijst met telefoonnummers. Volg hiervoor deze stappen:
+
+* Ga naar de "Instellingen" app op je iPhone.
+
+* Scroll naar beneden en tik op "Telefoon".
+
+* Tik op "Geblokkeerd" onder het gedeelte "Geblokkeerd en identificatie".
+
+* Tik op "Voeg toe" om een nieuwe geblokkeerde contactpersoon toe te voegen.
+
+* Zoek en selecteer de contactpersoon waaraan je de geblokkeerde telefoonnummers wilt toevoegen.
+
 Mocht je de lijst willen updaten kun je het toevoegen van blokkeren herhalen.

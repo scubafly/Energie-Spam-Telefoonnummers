@@ -36,4 +36,4 @@ Ga met je telefoon naar deze repo.
 
 * Zoek en selecteer de contactpersoon waaraan je de geblokkeerde telefoonnummers wilt toevoegen.
 
-Mocht je de lijst willen updaten kun je het toevoegen van blokkeren herhalen.
+* Mocht je de lijst willen updaten kun je het "Blokkeren van deze lijst met telefoonnummers" herhalen nadat je de contactpersoon opnieuw hebt toegevoegd.

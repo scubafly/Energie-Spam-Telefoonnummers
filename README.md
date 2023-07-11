@@ -24,7 +24,7 @@ Ga met je telefoon naar deze repo.
 
 * Scroll helemaal naar beneden, klik op als contactpersoon toevoegen ( of updaten ).
 
-![IMG_0883.png](IMG_0883.png)
+![IMG_0883.png](IMG_0883.PNG)
 
 * Als je nu gebeld wordt zie je meteen dat het een spammer is :)
 

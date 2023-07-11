@@ -18,13 +18,13 @@ Ga met je telefoon naar deze repo.
 
 * Klik op de ... drie puntjes en op "View raw"
 
-![IMG_0882.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F08%2Fh1ypwn89365g4kdshxx8v3380000gn%2FT%2Fcom.apple.useractivityd%2Fshared-pasteboard%2Fitems%2FC4659BB2-C440-4516-890F-C41A19864F17%2FIMG_0882.png)
+![IMG_0882.png](IMG_0882.PNG)
 
 * Je krijgt nu een dialoog waarmee je deze evil contactpersoon kan toevoegen.
 
 * Scroll helemaal naar beneden, klik op als contactpersoon toevoegen ( of updaten ).
 
-![IMG_0883.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F08%2Fh1ypwn89365g4kdshxx8v3380000gn%2FT%2Fcom.apple.useractivityd%2Fshared-pasteboard%2Fitems%2F0E8EB381-E387-43B5-90F1-17C347C4CD59%2FIMG_0883.png)
+![IMG_0883.png](IMG_0883.png)
 
 * Als je nu gebeld wordt zie je meteen dat het een spammer is :)
 
